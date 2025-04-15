@@ -25,7 +25,7 @@ This is my solution to the [QR Code Component challenge on Frontend Mentor](http
 ### Links
 
 - **Solution URL:** [Your GitHub Repo](https://github.com/cecilialeung05/frontend-mentor-projects/tree/qr-code-develop)
-- **Live Site URL:** [Live Demo on Vercel](-in-progress-)
+- **Live Site URL:** [Live Demo on Vercel](https://frontend-mentor-develop-cecilialeung05.vercel.app/)
 
 ---
 
