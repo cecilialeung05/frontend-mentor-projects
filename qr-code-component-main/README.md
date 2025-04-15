@@ -32,9 +32,8 @@ This is my solution to the [QR Code Component challenge on Frontend Mentor](http
 ## My Process
 
 ### Built With
-- Semantic HTML5
-- CSS3 with custom properties
-- Flexbox for layout
+- HTML5
+- CSS, Flexbox 
 - Mobile-first workflow
 
 ### What I Learned
