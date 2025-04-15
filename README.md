@@ -2,6 +2,11 @@
 
 A collection of completed challenges from [Front-End Mentor](https://www.frontendmentor.io/) to sharpen front-end development skills. Each project focuses on responsive design, semantic HTML, accessibility, and clean code practices. Started April 14, 2025.
 
+## 📁 Projects Included
+
+- [qr-code-component] - completed: 04/14/25, `https://github.com/cecilialeung05/frontend-mentor-projects/tree/qr-code-develop/qr-code-component-main`
+
+
 ## 💻 Tech Stack
 
 - HTML5
