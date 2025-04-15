@@ -6,7 +6,7 @@
   
   html, body {
     height: 100%;
-    font-family: 'Segoe UI', sans-serif;
+    font-family: 'Outfit', sans-serif;
     background: #f9f9f9;
     color: #333;
     line-height: 1.6;
@@ -34,7 +34,6 @@
     font-size: 1rem;
     text-decoration: none;
     color: #007acc;
-    font-weight: bold;
   }
   
   .projects {
@@ -109,9 +108,10 @@
     text-align: center;
     margin-top: auto;
     text-align: center;
-    font-size: 0.85rem;
+    font-size: 0.75rem;
     color: #f1f1f1;
     background-color: rgba(0, 0, 0, 0.2); 
+    font-weight: 300;
   }
   
   footer a {
