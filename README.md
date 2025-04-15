@@ -4,7 +4,7 @@ A collection of completed challenges from [Front-End Mentor](https://www.fronten
 
 ## 📁 Projects Included
 
-- [qr-code-component] - completed: 04/14/25, `https://github.com/cecilialeung05/frontend-mentor-projects/tree/qr-code-develop/qr-code-component-main`
+- 04/14/25 [qr-code-component](https://github.com/cecilialeung05/frontend-mentor-projects/tree/qr-code-develop/qr-code-component-main/)
 
 
 ## 💻 Tech Stack
