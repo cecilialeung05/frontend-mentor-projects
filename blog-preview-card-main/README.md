@@ -23,7 +23,7 @@ This is my solution to the [Blog Preview Card challenge on Frontend Mentor](http
 ### Links
 
 - **Solution URL:** [GitHub Repo](https://github.com/cecilialeung05/frontend-mentor-projects/tree/blog-preview-develop)
-- **Live Site URL:** [Live Demo on Vercel](https://frontend-mentor-blog-preview-card.vercel.app)
+- **Live Site URL:** [Live Demo on Vercel](https://frontend-mentor-projects-cecilia.vercel.app/)
 
 ---
 
