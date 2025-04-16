@@ -1,0 +1,81 @@
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+}
+
+html, body {
+    background-color: hsl(0, 0%, 8%);
+    color: hsl(0, 0%, 100%);
+    font-family: 'Inter', sans-serif;
+    margin: 0;
+    width: 100vw;
+    min-height: 100vh; 
+    padding: 1rem;
+
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;  
+    
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+.social-card {
+    background-color: hsl(0, 0%, 12%);
+    border-radius: 20px;
+    max-width: 20.4375rem;
+    padding: 1.5rem;
+}
+
+/* .social-card img {
+    border-radius: ;
+} */
+
+.social-card h1 {
+    font-weight: 700;
+}
+
+.social-card__button h1 :hover {
+    color: hsl(75, 94%, 57%);
+}
+
+.social-card__location {
+    font-weight: 600;
+    font-size: 14px;
+}
+
+.social-card__description {
+    font-weight: 400;
+    font-size: 14px;
+}
+
+
+.social-card__button {
+    background-color: hsl(0, 0%, 20%); 
+    outline: none; 
+    border: none; 
+    border-radius: 5px;
+}
+
+.social-card__button a :hover {
+    color: hsl(75, 94%, 57%);
+}
+
+.social-card__button a {
+   color: hsl(0, 0%, 100%);
+   font-weight: 600;
+   font-size: 14px;
+}
+
+
+.attribution { 
+    margin-top: 1rem;
+    font-size: 11px;
+    text-align: center;
+}
+
+ .attribution a {
+    color: hsl(228, 45%, 44%); 
+}

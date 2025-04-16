@@ -31,3 +31,10 @@ The designs were created to the following widths:
 - Weights: 400, 600, 700
 
 > 💎 [Upgrade to Pro](https://www.frontendmentor.io/pro?ref=style-guide) for design file access to see all design details and get hands-on experience using a professional workflow with tools like Figma. The design file for this challenge also includes a basic design system to help you build a more accurate solution faster.
+<!-- 
+💡
+Ideas to test yourself
+Personalize the project to add your own information, links, and color palette.
+Focus on writing semantic HTML and using the correct elements based on the content.
+Ensure visitors can navigate the links only using their keyboard.
+Train your eye for detail by getting your solution to look similar to the design. -->
