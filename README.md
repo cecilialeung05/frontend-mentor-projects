@@ -5,6 +5,8 @@ A collection of completed challenges from [Front-End Mentor](https://www.fronten
 ## 📁 Projects Included
 
 - 04/14/25 [qr-code-component](https://github.com/cecilialeung05/frontend-mentor-projects/tree/qr-code-develop/qr-code-component-main/)
+- 04/15/25 [blog-preview-card](https://github.com/cecilialeung05/frontend-mentor-projects/tree/blog-preview-develop/)
+- 04/16/25 [social-links-profile](https://github.com/cecilialeung05/frontend-mentor-projects/tree/social-links-profile-develop/)
 
 
 ## 💻 Tech Stack
