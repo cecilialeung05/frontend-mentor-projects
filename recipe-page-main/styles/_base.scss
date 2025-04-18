@@ -1,0 +1,103 @@
+@import 'variables';
+
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+}
+
+html, body {
+    font-family: $font-body;
+    font-size: $font-size-body;
+    color: $stone-600;
+    background-color: $stone-100;
+    line-height: 1.6;
+    font-weight: 400;
+    font-size: 16px;
+    margin: 0;
+    width: 100vw;
+    min-height: 100vh; 
+    padding: 1.5rem;
+
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;  
+    
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+img {
+max-width: 100%;
+height: auto;
+border-radius: 12px;
+}
+
+.container {
+    background-color: hsl(0, 0%, 100%);
+    border-radius: 12px;
+    max-width: 327px;
+    width: 327px;
+    text-align: center;
+    padding: 1.5rem 1.5rem;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+}
+
+h1 {
+    font-family: $font-heading;
+    line-height: 1.2;
+    font-weight: 400;
+    color: $stone-900;
+}
+
+h2 {
+    font-family: $font-heading;
+    line-height: 1.2;
+    font-weight: 400;
+    color: $brown-800;
+}
+  
+.section-title {
+font-size: 1.5rem;
+margin-bottom: 1rem;
+font-family: $font-heading;
+}
+  
+p {
+margin-bottom: 1.25rem;
+}
+
+ul, ol {
+margin-left: 1.5rem;
+margin-bottom: 2rem;
+}
+
+li {
+margin-bottom: 0.75rem;
+}
+
+strong {
+color: $stone-900;
+font-weight: 700;
+}
+  
+.attribution { 
+    margin-top: 1rem;
+    font-size: 11px;
+    text-align: center;
+}
+
+ .attribution a {
+    color: hsl(228, 45%, 44%); 
+}
+
+@media (min-width: 768px) {
+    .social-card {
+      max-width: 384px;
+      padding: 2rem;
+    }
+}

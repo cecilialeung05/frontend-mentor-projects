@@ -1,0 +1,129 @@
+.recipe-title {
+    font-family: $font-heading;
+    font-size: 2rem;
+    color: $stone-900;
+    margin: 1.5rem 0;
+  
+    @media (min-width: 768px) {
+      font-size: 2.5rem;
+    }
+}
+
+p {
+font-size: 1rem;
+color: $stone-600;
+margin-bottom: 1.25rem;
+
+@media (min-width: 768px) {
+    font-size: 1.125rem;
+}
+}
+.nutrition-section {
+    margin-top: 3rem;
+  
+    h2 {
+      font-family: $font-heading;
+      color: $brown-800;
+      font-size: 1.5rem;
+      margin-bottom: 1rem;
+    }
+  
+    p {
+      font-family: $font-body;
+      color: $stone-600;
+      margin-bottom: 1.5rem;
+    }
+  
+    .nutrition-table {
+      width: 100%;
+      border-collapse: collapse;
+      font-family: $font-body;
+      font-size: 1rem;
+  
+      tr {
+        border-bottom: 1px solid $stone-150;
+  
+        &:last-child {
+          border-bottom: none;
+        }
+  
+        td {
+          padding: 1rem 0;
+          color: $stone-900;
+  
+          &:first-child {
+            font-weight: 400;
+          }
+  
+          &:last-child {
+            font-weight: 700;
+            color: $brown-800;
+            text-align: right;
+          }
+        }
+      }
+    }
+}
+
+.ingredients-section {
+    margin-top: 2rem;
+  
+    .ingredients-list {
+      list-style: disc;
+      margin-left: 1.5rem;
+      color: $stone-900;
+  
+      li {
+        margin-bottom: 0.5rem;
+      }
+    }
+}
+  
+.instructions-section {
+    margin-top: 2.5rem;
+  
+    .instructions-list {
+      list-style: decimal;
+      margin-left: 1.5rem;
+      color: $stone-900;
+  
+      li {
+        margin-bottom: 1rem;
+        line-height: 1.6;
+  
+        strong {
+          color: $brown-800;
+        }
+      }
+    }
+}
+
+.preparation-time-section {
+    background-color: $rose-50;
+    border-radius: 12px;
+    padding: 1.5rem;
+    margin: 2rem 0;
+  
+    h2 {
+      font-size: 1rem;
+      color: $rose-800;
+      font-family: $font-body;
+      font-weight: 700;
+      margin-bottom: 1rem;
+    }
+  
+    .preparation-time-list {
+      list-style: disc;
+      margin-left: 1.25rem;
+  
+      li {
+        margin-bottom: 0.5rem;
+  
+        strong {
+          color: $stone-900;
+        }
+      }
+    }
+}
+  
+  
